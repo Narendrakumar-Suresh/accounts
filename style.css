@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(10000deg, #00bfff, #ff4c69, #ef8172);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.Main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Button_class {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+
+}
+
+button {
+  width: 30%;
+  height: 100%;
+  font-size: xx-large;
+  border-radius: 15px;
+}
+
+p {
+  font-size: xx-large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+svg {
+  justify-content: center;
+}
